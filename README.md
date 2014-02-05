@@ -1,5 +1,5 @@
 # imgBBQ 
-## (Images Beyond Basic Queries)
+### (Images Beyond Basic Queries)
 
 imgBBQ is a jQuery plug-in that makes your web page aware of the type of device it's being viewed on, the pixel density of that device, the connection speed of that device and loads the images that make the most sense for that environment.
 
