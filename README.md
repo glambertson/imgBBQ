@@ -40,7 +40,7 @@ $(".yourclass").imgBBQ({
 
 ### Under The Hood
 - jQuery dependent
-- 4 Kb
+- 3 Kb
 - Detects connection speed
 - Detects display ratio / pixel density
 - Detects mobile devices
