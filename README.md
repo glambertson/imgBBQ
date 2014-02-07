@@ -53,6 +53,6 @@ $(".yourclass").imgBBQ({
 - imgBBQ isn't worried about screen width or height; doesn't do media queries
 
 ### Visuals That Might Help
-View: [The Math, Visualized](https://github.com/glambertson/imgbbq/wiki/imgBBQ---The-Math)
+View: [The Math, Visualized](https://github.com/glambertson/imgBBQ/wiki/The-Math)
 
 View: [File Structure Example](https://github.com/glambertson/imgbbq/wiki/imgBBQ-File-Structure-Example)
