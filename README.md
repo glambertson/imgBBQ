@@ -55,4 +55,4 @@ $(".yourclass").imgBBQ({
 ### Visuals That Might Help
 View: [The Math, Visualized](https://github.com/glambertson/imgBBQ/wiki/The-Math)
 
-View: [File Structure Example](https://github.com/glambertson/imgbbq/wiki/imgBBQ-File-Structure-Example)
+View: [File Structure Example](https://github.com/glambertson/imgBBQ/wiki/File-Structure-Example)
